@@ -1,0 +1,184 @@
+/* CSS Document */
+
+
+/*
+ naimul hasan shadhin
+ mail:naimulshadhin@gmail.com
+ skype:shadhin9227
+ fb:facebook.com/shadhen.khan1/
+*/
+
+
+#home, #wia, #wid , #wm , #cm
+{
+	width:90%;
+	height:90%;
+	position:absolute;
+	overflow:hidden;
+	visibility:hidden;
+	padding:6% 5%;
+	color:#000;
+	top:0;
+	left:0;
+	background:#EFEFEF;
+	border-radius:5px;
+}
+
+/**xxxxxxxxxxxxxxxxxxxxxxxxcontentxxxxxxxxxxxxxxxxxxxxxxxxxxxxx***/
+table
+{
+}
+td
+{
+}
+
+th
+{
+	background:#030;
+	font-size:14px;
+	padding:1px 0px;
+	color:#fff;
+	text-align:left;
+	text-indent:15%;
+	margin-bottom:3%;
+	font-weight:normal;
+}
+
+table p
+{
+	text-indent:5px;
+	line-height:11px;
+	font-size:13px;
+}
+/*************form***********************/
+#textarea
+{
+	float:right;
+	width:48%;
+	max-width:48%;
+	height:108px;
+	max-height:108px;
+	margin-top:4px;
+}
+
+input
+{
+	width:48%;
+	margin:1% 0%;
+}
+
+.button
+{
+	width:14%;
+	float:right;
+}
+
+
+.vertical_row
+{
+	width:5px;
+	height:80%;
+	background:#000;
+	position:absolute;
+}
+
+.img_box
+{
+	width:100%;
+	height:17%;
+	margin:3% 0%;
+	
+}
+
+.img1, .img2
+{
+	width:48.5%;
+	height:100%;
+	background:#C39;
+	float:left;
+}
+.img2
+{
+	float: right;
+}
+
+
+
+
+h2
+{
+	font-weight: normal;
+	text-indent:5%;
+	margin:-5px 0px 0px 0px;
+	font-size:20px;
+	padding:0;
+	
+}
+h3
+{
+	font-weight: normal;
+	font-size:17px;
+	margin:0px;
+}
+
+p
+{
+	margin:5px 0px 5px 0px;
+	font-size:100%;
+	line-height:16px;
+	font-family: "Raavi";
+	text-align:justify;
+}
+
+hr
+{
+	width:85%;
+	float:left;
+	margin-top:0%;
+	margin-right:15%;
+	border-style:solid;
+	border-top:hidden;
+	border-left:hidden;
+	border-right:hidden;
+}
+br
+{
+	margin:0px;
+	padding:0;
+}
+#home h2, #home h3, #home hr
+{
+	color:#e93400;
+}
+
+#wia h2, #wia h3, #wia hr
+{
+	color:#da8300;
+}
+
+
+#wid h2, #wid h3, #wid hr
+{
+	color:#060;
+}
+
+#wm h2, #wm h3, #wm hr
+{
+	color:#934650;
+}
+
+
+#cm h2, #cm h3, #cm hr
+{
+	color:#33F;
+}
+
+
+/*
+ naimul hasan shadhin
+ mail:naimulshadhin@gmail.com
+ skype:shadhin9227
+ fb:facebook.com/shadhen.khan1/
+*/
+
+
